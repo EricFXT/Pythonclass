@@ -64,3 +64,7 @@ print(greetings.upper())
 
 print(greetings.lower())
 
+#split
+names = "Eric:Jeremy:Antony:Paul"
+print(names.split(":"))
+

@@ -73,8 +73,10 @@ print(type(b))
 x = 100
 x_to_float = float(x)
 print(type(x_to_float))
+greetings = "hello world"
 
-
+print(greetings)
+print(greetings)
 
 
 
